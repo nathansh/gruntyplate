@@ -58,7 +58,7 @@ module.exports = function(grunt) {
           shiv: true,
           printshiv: false,
           load: true,
-          mq: false,
+          mq: true,
           cssclasses: true
         },
         extensibility: {
